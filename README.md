@@ -2,7 +2,7 @@
 
 ### Dashboard Link: - https://app.powerbi.com/links/9oMFKQajQU?ctid=497a8a6f-e00b-4265-bf91-f1e878bb7bc8&pbi_source=linkShare
 
-Problem Statement: 
+### Problem Statement: 
 "Analyse IMDb movie ratings data to identify trends, patterns, and factors influencing movie ratings. Explore relationships between variables such as genres, directors, release years, and budgets to understand their impact on audience reception and critical acclaim. Develop insights to help stakeholders in the film industry make informed decisions regarding investment, production, and content creation strategies for maximizing audience satisfaction and success in the competitive movie market."
 
 ### Steps Followed:
